@@ -16,7 +16,25 @@ This Python script facilitates the automatic mapping of HISCO codes to their cor
 - change the filename in the notebook to the filename of the hisco-database you want to convert
 - run the code!
 
-## 3. Credit
+## 3. Interpretation of hisclass codes
+
+| Number | Occupation Category                  |
+|--------|--------------------------------------|
+| 1      | Higher managers                      |
+| 2      | Higher professionals                 |
+| 3      | Lower managers                       |
+| 4      | Lower prof and clerical, sales       |
+| 5      | Lower clerical and sales             |
+| 6      | Foremen                              |
+| 7      | Skilled workers                      |
+| 8      | Farmers                              |
+| 9      | Lower skilled workers                |
+| 10     | Lower skilled farm workers           |
+| 11     | Unskilled workers                    |
+| 12     | Unskilled farm workers               |
+
+
+## 4. Credit
 - [HISCO](https://historyofwork.iisg.amsterdam/index.php) (Historical International Standard Classification of Occupations) was developed by Marco H.D. van Leeuwen, Ineke Maas and Andrew Miles (Leuven 2002). 
 
 - [HISCLASS](https://lup.be/products/100004) (Historical International Social Class Scheme) was developed by Marco H.D. van Leeuwen and Ineke Maas (Leuven 2011).  
